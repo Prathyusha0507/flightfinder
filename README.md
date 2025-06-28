@@ -16,7 +16,7 @@ You can access the complete documentation from the link below:
 ## 👨‍💻 Team Details
 
 - **Team ID:** **LTVIP2025TMID59356**
-- **Team Size:** 4 ** 
+- **Team Size:**  ** 4 ** 
 - **Team Leader:**  
      **Makkena Venkataprathyusha** 
 - **Team Members:**  
