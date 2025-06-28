@@ -17,8 +17,8 @@ You can access the complete documentation from the link below:
 
 - **Team ID:** **LTVIP2025TMID59356**
 - **Team Size:** 4 ** 
-- **Team Leader:
-    ** **Makkena Venkataprathyusha**  
+- **Team Leader:**  
+     **Makkena Venkataprathyusha** 
 - **Team Members:**  
   - **Kummaragunta Deva Priya**  
   - **Kotha Himavarshini**  
